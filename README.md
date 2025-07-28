@@ -45,14 +45,18 @@ Clone the repository:
 Bash
 
 git clone https://github.com/ChandanM123456/DNA-Recognition-by-Facial-Resemblance.git
+
 cd DNA-Recognition-by-Facial-Resemblance
+
 Create a virtual environment (recommended):
 
 Bash
 
 python -m venv venv
+
 # On Windows:
 .\venv\Scripts\activate
+
 # On macOS/Linux:
 source venv/bin/activate
 Install the required Python packages:
@@ -61,19 +65,6 @@ Bash
 
 pip install -r requirements.txt
 Prepare Your Photos
-Create the following directory structure inside your project folder if it doesn't already exist:
-
-.
-├── captured_faces/
-│   ├── baby/
-│   ├── father/
-│   └── mother/
-├── analysis_module.py
-├── report.py
-├── requirements.txt
-└── README.md
-Place one clear photo of the mother in captured_faces/mother/.
-
 Example: captured_faces/mother/mother_20250728_200624.jpg
 
 Place one clear photo of the father in captured_faces/father/.
