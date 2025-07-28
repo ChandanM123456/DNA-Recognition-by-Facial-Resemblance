@@ -1,7 +1,3 @@
-Great choice to upload it to GitHub\! Here's a comprehensive `README.md` for your project, including instructions for all your Python scripts.
-
------
-
 # DNA Recognition by Facial Resemblance
 
 A Python-based system that quantifies visual facial resemblance between a baby and its parents using facial landmark analysis to suggest inherited features. This project serves as a proof-of-concept for exploring genetic traits through computer vision.
